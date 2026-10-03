@@ -1,0 +1,5 @@
+secretos.py
+
+__pycache__/
+
+venv/
